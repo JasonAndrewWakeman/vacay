@@ -13,7 +13,7 @@ public enum Role {
     /**
      *  @see "BUSINESS LOGIC FROM REQUIREMENT DOCUMENTATION <name>, <location>"
      *  "Hourly employees accumulate 10 vacation days during the work year."
-     *  "Salaried employees accumulate 25 vacation days during the work year."
+     *  "Salaried employees accumulate 15 vacation days during the work year."
      *  "Manager employees accumulate 30 vacation days during the work year."
      *
      *  should consider making allotment values configurable at deployment.
